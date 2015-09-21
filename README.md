@@ -1,0 +1,1 @@
+# anti-use-strict-mock
