@@ -1,0 +1,19 @@
+{
+  "name": "anti-use-strict-mock",
+  "version": "0.1.0",
+  "description": "A dummy module that contains code that relies on running in a non-strict env. i.e. you cannot wrap it in \"use strict\" or it fails to run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayphelps/anti-use-strict-mock.git"
+  },
+  "author": "Jay Phelps <hello@jayphelps.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayphelps/anti-use-strict-mock/issues"
+  },
+  "homepage": "https://github.com/jayphelps/anti-use-strict-mock#readme"
+}
